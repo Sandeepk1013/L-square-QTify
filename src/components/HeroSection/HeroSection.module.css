@@ -1,0 +1,34 @@
+.container {
+    width: 1440px;
+    height: 270px;
+    flex-shrink: 0;
+    background-color: var(--color-black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+  }
+  .firstText {
+    color: var(--color-white);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .secondText {
+    color: #fff;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .img1{
+    color: #fff;
+    background-color: #fff;
+  }
